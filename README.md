@@ -1,8 +1,8 @@
 # Wongkarwai_color
 
 This is the repository by Weiyu Wang, created for the final project of Collecting Data Course
-Original dataset:
 
+Original dataset:
 Film screenshots available in Film Grab (https://film-grab.com/)
    - Fallen Angels(1995) https://film-grab.com/2014/09/25/fallen-angels/
    - Happy Together(1997) https://film-grab.com/2014/02/19/happy-together/
